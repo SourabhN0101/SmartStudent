@@ -40,3 +40,13 @@ SmartStudent
 ├── README.md
 └── student.sql (SQL schema)
 
+--------------------------------------------------
+#Demo
+https://drive.google.com/file/d/1J7AFIGHRD9iBYF__dgjWOTzEL6aYjXNE/view?usp=drive_link
+
+------------------------------------------------------
+
+#Submitted By
+- Name: Sourabh Navale
+
+
