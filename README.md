@@ -4,7 +4,7 @@ This is a **console-based Java application** that allows administrators to manag
 
 -----------------------------------
 *Features
-
+ 
 - Admin Login
 - Add Student
 - View All Students
